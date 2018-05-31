@@ -1,0 +1,19 @@
+{
+  "name": "angularcalculator",
+  "version": "1.0.0",
+  "description": "someone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azagtothCode/angularCalculator.git"
+  },
+  "author": "azagtoth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azagtothCode/angularCalculator/issues"
+  },
+  "homepage": "https://github.com/azagtothCode/angularCalculator#readme"
+}
